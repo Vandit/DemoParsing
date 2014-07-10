@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Calender fragment -->
+    <string name="calender_month_format">MMMM yyyy</string>
+    <string name="calender_passing_dateformat">yyyy-MM-dd</string>
+    <string name="calender_passing_datetimeformat">yyyy-MM-dd hh:mm:ss</string>
+    <string name="calender_day_format">dd</string>
+    <string name="folder_images">Images</string>
+    <string name="postal_url">http://maps.google.com/maps/geo?q=</string>
+    <string name="address_url">http://maps.googleapis.com/maps/api/geocode/json?latlng=</string>
+    <string name="addUrl">http://maps.googleapis.com/maps/api/geocode/json?address=</string>
+
+    <!-- App Level Extras -->
+    <string name="extra_comment_count">extra_comment_count</string>
+    <string name="extra_share_url">extra_share_url</string>
+    <string name="extra_html">extra_html</string>
+    <string name="extra_title">extra_title</string>
+    <string name="extra_address">extra_address</string>
+    <string name="extra_time">extra_time</string>
+    <string name="extra_startdate">startdate</string>
+    <string name="extra_enddate">enddate</string>
+    <string name="extra_id">extra_id</string>
+    <string name="extra_module_id">extra_module_id</string>
+    <string name="extra_latitude">extra_latitude</string>
+    <string name="extra_longitude">extra_longitude</string>
+    <string name="extra_location">extra_location</string>
+    <string name="extra_image_path">extra_imgpath</string>
+    <string name="extra_is_login_option_activity">extra_is_login_option_activity</string>
+    <string name="extra_city">extra_city</string>
+    <string name="extra_distance">extra_distance</string>
+    <string name="extra_email">extra_email</string>
+    <string name="extra_mobile">extra_mobile</string>
+    <string name="extra_phone">extra_phone</string>
+    <string name="extra_policehead">extra_policehead</string>
+    <string name="extra_region">extra_region</string>
+    <string name="extra_zipcode">extra_zipcode</string>
+    <string name="extra_description">extra_description</string>
+
+    <!-- Web Service Related Parameters -->
+    <!-- <string name="ws_url">http://10.2.2.137/police_app/webservicesphp/client.php</string> -->
+    <!-- <string name="ws_url">http://staging.indianic.com/police_app/webservicesphp/client.php</string> -->
+    <string name="ws_url">http://stagingap.indianic.com/police_app/webservicesphp/client.php</string>
+    <string name="ws_login">loginUser</string>
+    <string name="ws_createforumtopic">createForumTopic</string>
+    <string name="ws_registration">userRegistration</string>
+    <string name="ws_update_user_profile">editUser</string>
+    <string name="ws_get_region">getRegion</string>
+    <string name="ws_getforumscat">getForumsCat</string>
+    <string name="ws_get_user_profile">getUserProfile</string>
+    <string name="ws_changePassword">changePassword</string>
+    <string name="ws_forgotPassword">forgotPassword</string>
+    <string name="ws_createForumTopic">createForumTopic</string>
+    <string name="ws_getNews">getNews</string>
+    <string name="ws_getcrimealerts">getCrimeAlerts</string>
+    <string name="ws_getpolicestation">getPoliceStation</string>
+    <string name="ws_searchPoliceStation">searchPoliceStation</string>
+    <string name="ws_getComments">getComments</string>
+    <string name="ws_setComments">setComments</string>
+    <string name="ws_reportPanic">reportPanic</string>
+    <string name="ws_reportCrimeMedia">reportCrimeMedia</string>
+    <string name="ws_getEvents">getEvents</string>
+    <string name="ws_getBlogs">getBlogs</string>
+    <string name="ws_getForums">getForums</string>
+    <string name="ws_reportCrime">reportCrimeText</string>
+    <string name="ws_logoutUser">logoutUser</string>
+    <string name="ws_getDangePoint">getDangePoint</string>
+    <string name="ws_getGallery">getGallery</string>
+    <string name="ws_getMissingPeople">getMissingPeople</string>
+    <string name="ws_getWantedPeople">getWantedPeople</string>
+    <string name="ws_setLike">setLikes</string>
+
+    <!-- Twitter related variables -->
+    <string name="twitter_oauth">twitter_oauth</string>
+    <string name="twitter_oauth_token_secret">oauth_token_secret</string>
+    <string name="twitter_oauth_token">oauth_token</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+
+    <!-- GPS Dialog message -->
+    <string name="seek_bar_radius">seekBarRadius</string>
+    <string name="notification_flag">notificationflag</string>
+    <string name="radius">radius</string>
+
+    <!-- Event Listing Screen -->
+    <string name="html_text">text/html</string>
+    <string name="utf_8">UTF-8</string>
+
+    <!-- All Shared Preferences Key -->
+    <string name="shared_user_id">user_id</string>
+    <string name="shared_first_name">first_name</string>
+    <string name="shared_last_name">last_name</string>
+    <string name="shared_email">email</string>
+    <string name="shared_phone">phone</string>
+    <string name="shared_radius">radius</string>
+    <string name="shared_notification">notification</string>
+    <string name="shared_region_id">region_id</string>
+    <string name="shared_first_time_dialog">shared_first_time_dialog</string>
+    <string name="panic_running">panicrunning</string>
+    <string name="shared_ispanicrun">shared_ispanicrun</string>
+    <string name="shared_first_time_dialog_help">shared_first_time_dialog_help</string>
+
+
+</resources>
